@@ -9,7 +9,7 @@ default: &default
 
 development:
   <<: *default
-  database: my_rails_api_development
+  database: shin
 
 test:
   <<: *default
