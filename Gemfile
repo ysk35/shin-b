@@ -14,6 +14,7 @@ gem "puma", "~> 5.0"
 
 gem 'bcrypt', '~> 3.1.13'
 gem 'jwt', '~> 2.3'
+gem 'rack-cors'
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
